@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "95221063243",
+    "project_id": "cinescope-9d8c0",
+    "storage_bucket": "cinescope-9d8c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95221063243:android:c2f528a84e76ec7e8777ce",
+        "android_client_info": {
+          "package_name": "com.cinescope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95221063243-0ggmn0ta5aabdjkfdbmbqp65qln2gt9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cinescope",
+            "certificate_hash": "a3bf3fe18877198dfb09991aeed7dda516210c28"
+          }
+        },
+        {
+          "client_id": "95221063243-n0qf6j869g9ecq1u4nvlusac254vml7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdkDaX6pqD4bpLMtgJ7PmThyo-I0Vw3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95221063243-860on9i6vpdgi5s7l1dmhhmiokkcknb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95221063243-rlbhvp20bonson8op66efqgc33ssbv1s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cinescope"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95221063243:android:7906aca0ec8571f68777ce",
+        "android_client_info": {
+          "package_name": "com.example.cinescope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95221063243-n0qf6j869g9ecq1u4nvlusac254vml7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdkDaX6pqD4bpLMtgJ7PmThyo-I0Vw3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95221063243-860on9i6vpdgi5s7l1dmhhmiokkcknb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95221063243-rlbhvp20bonson8op66efqgc33ssbv1s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cinescope"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
